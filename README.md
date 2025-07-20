@@ -30,7 +30,7 @@
 
 | Category             | Tools                                                                                  |
 | -------------------- | -------------------------------------------------------------------------------------- |
-| **Programming**      | C, C++, Java, JavaScript, TypeScript, Python, MATLAB, Bash, SQL                        |
+| **Programming**      | C, C++, Java, JavaScript, TypeScript, Python, Rust, RMATLAB, Bash, SQL                 |
 | **Front-end**        | HTML5, CSS3, Bootstrap, Tailwind CSS, Sass, React, React Native, Angular, AngularJS, Vue.js, Next.js |
 | **Back-end**         | Node.js, Express.js, Ruby on Rails, Firebase                                           |
 | **Databases**        | MySQL, PostgreSQL, MongoDB, SQLite                                                     |
