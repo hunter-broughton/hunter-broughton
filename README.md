@@ -12,7 +12,7 @@
 
 ### 🎓 Education & Courses
 - **B.S. Computer Science, Economics**, University of Michigan  
-- Current Courses: Intro to AI, Mathematics of Machine Learning, Computer Organization
+- Relevant Courses: Intro to AI, Mathematics of Machine Learning, Computer Organization, Software Engineering, Theory of Computation, Linear Algebra, Data Structures and Algorithms, Data Science, Calculus III, Game Theory
 
 ### 🚀 Projects
 - [Thrift Swipe](https://github.com/hunter-broughton/ThriftSwipe)  
