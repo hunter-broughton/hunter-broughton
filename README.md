@@ -23,9 +23,6 @@
 - **LinkedIn:** [Hunter Broughton](https://www.linkedin.com/in/hunter-broughton/)  
 - **Website:** [hunterbroughton.com](https://hunterbroughton.com)
 
-### ⚡ Fun Fact
-- I’m a twin!
-
 ### 🛠 Skills & Tools
 
 | Category             | Tools                                                                                  |
