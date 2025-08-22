@@ -7,9 +7,10 @@
 
 ---
 
-### 🔭 Current Role
-- SWE Intern at [Credo Semiconductor](https://credosemi.com/)
-
+### 🔭 Experience
+- Former SWE Intern at [Credo Semiconductor](https://credosemi.com/)
+- Former SWE Intern at [Vloggi](https://vloggi.ai/)
+  
 ### 🎓 Education & Courses
 - **B.S. Computer Science, Economics**, University of Michigan  
 - Relevant Courses: Intro to AI, Mathematics of Machine Learning, Computer Organization, Software Engineering, Theory of Computation, Linear Algebra, Data Structures and Algorithms, Data Science, Calculus III, Game Theory
