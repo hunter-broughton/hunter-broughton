@@ -8,16 +8,15 @@
 ---
 
 ### 🔭 Experience
-- Incoming SWE Intern at Microsoft Azure
+- SWE Intern at Microsoft Azure
 - Former SWE Intern at [Credo Semiconductor](https://credosemi.com/)
 - Former SWE Intern at [Vloggi](https://vloggi.ai/)
   
 ### 🎓 Education & Courses
 - **B.S. Computer Science, Economics**, University of Michigan  
-- Relevant Courses: Intro to AI, Mathematics of Machine Learning, Computer Organization, Software Engineering, Theory of Computation, Linear Algebra, Data Structures and Algorithms, Data Science, Calculus III, Game Theory
+- Relevant Courses: Intro to AI, Operating Systems, ML, Distributed Systems, Mathematics of Machine Learning, Computer Organization, Software Engineering, Theory of Computation, Linear Algebra, Data Structures and Algorithms, Data Science, Calculus III, Game Theory
 
 ### 🚀 Projects
-- [Thrift Swipe](https://github.com/hunter-broughton/ThriftSwipe)  
 - See all my projects at [hunterbroughton.com](https://hunterbroughton.com)
 
 ### 📫 Contact & Connect
@@ -33,5 +32,5 @@
 | **Front-end**        | HTML5, CSS3, Bootstrap, Tailwind CSS, Sass, React, React Native, Angular, AngularJS, Vue.js, Next.js |
 | **Back-end**         | Node.js, Express.js, Ruby on Rails, Firebase                                           |
 | **Databases**        | MySQL, PostgreSQL, MongoDB, SQLite                                                     |
-| **DevOps & Cloud**   | AWS, Docker, Git, Webpack, Postman                                                     |
-| **Data & ML**        | Pandas, Scikit-learn, PyTorch                                                           |
+| **DevOps & Cloud**   | Kubernetes, Azure, Docker, Git, Webpack, Postman                                       |
+| **Data & ML**        | Pandas, Scikit-learn, PyTorch, TensorFlow                                              
