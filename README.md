@@ -8,7 +8,8 @@
 ---
 
 ### 🔭 Experience
-- SWE Intern at Microsoft Azure
+- Building at NeuroSpark-AI
+- Former SWE Intern at Microsoft Azure
 - Former SWE Intern at [Credo Semiconductor](https://credosemi.com/)
 - Former SWE Intern at [Vloggi](https://vloggi.ai/)
   
